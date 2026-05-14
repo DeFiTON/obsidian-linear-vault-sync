@@ -1,0 +1,47 @@
+/* Linear Vault Sync — status indicators */
+
+.lvs-status-badge {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	padding: 2px 8px;
+	border-radius: 4px;
+	font-size: var(--font-ui-smaller);
+	font-weight: 500;
+	background: var(--background-modifier-border);
+	color: var(--text-muted);
+}
+
+.lvs-status-badge--synced {
+	background: rgba(34, 197, 94, 0.12);
+	color: rgb(34, 197, 94);
+}
+
+.lvs-status-badge--pending {
+	background: rgba(234, 179, 8, 0.12);
+	color: rgb(234, 179, 8);
+}
+
+.lvs-status-badge--error {
+	background: rgba(239, 68, 68, 0.12);
+	color: rgb(239, 68, 68);
+}
+
+.lvs-settings-section {
+	margin-top: 24px;
+	padding-top: 16px;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+.lvs-settings-hint {
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+	margin-top: 4px;
+}
+
+.lvs-status-bar {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	cursor: pointer;
+}
