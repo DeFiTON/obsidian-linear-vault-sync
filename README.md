@@ -171,9 +171,9 @@ Reload Obsidian (Ctrl/Cmd + R). Edits compile automatically.
 Built by **Sviatoslav Gusev** — founder, operator, technical strategist. I manage 12+ projects across multiple servers from a single Obsidian vault. This plugin scratches my own itch.
 
 - Website — [gusev.biz](https://gusev.biz)
+- Telegram — [@gusevself](https://t.me/gusevself)
 - X / Twitter — [@gusevlife](https://twitter.com/gusevlife)
 - LinkedIn — [linkedin.com/in/gusevlife](https://www.linkedin.com/in/gusevlife/)
-- Telegram — [@gusevself](https://t.me/gusevself)
 - GitHub — [@DeFiTON](https://github.com/DeFiTON)
 
-If this plugin saves you time, [support development on Boosty](https://boosty.to/defi) or star the repo. Both help.
+If this plugin saves you time, drop me a line on [Telegram](https://t.me/gusevself) or star the repo. That's the real currency.

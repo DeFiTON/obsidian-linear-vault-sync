@@ -1,11 +1,11 @@
 {
   "id": "linear-vault-sync",
   "name": "Linear Vault Sync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "1.5.0",
   "description": "Two-way sync between your Obsidian vault and Linear. Privacy-first opt-in per note, mobile-ready, zero plugin dependencies.",
   "author": "Sviatoslav Gusev",
   "authorUrl": "https://gusev.biz",
-  "fundingUrl": "https://boosty.to/defi",
+  "fundingUrl": "https://gusev.biz",
   "isDesktopOnly": false
 }
